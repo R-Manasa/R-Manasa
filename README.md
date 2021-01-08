@@ -12,5 +12,5 @@
 
 ![Manasa's github stats](https://github-readme-stats.vercel.app/api?username=R-Manasa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Manasa)](https://github.com/R-Manasa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Manasa)
 
